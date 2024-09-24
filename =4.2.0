@@ -1,6 +1,0 @@
-Added nbformat>=5.10.4 as regular dependency
-Reusing already existing virtualenv
-Generating production lockfile: /home/juliette/projets/employment_situation/requirements.lock
-Generating dev lockfile: /home/juliette/projets/employment_situation/requirements-dev.lock
-Installing dependencies
-Done!
